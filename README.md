@@ -1,3 +1,3 @@
 ﻿#การกำหนดขนาดอักษร
  
-คลิกดูผลลัพธ์ https://kruauu.chainatpit.ac.th/eleaning/html/fontsize.html
+คลิกดูผลลัพธ์ https://khunkru.net/eleaning/html/fontsize.html
